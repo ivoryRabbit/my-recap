@@ -35,7 +35,7 @@ with st.container():
 
     recap_items = [
         RecapItem(name="커리어", value="3.8년"),
-        RecapItem(name="요금 절감", value="65,700$"),
+        RecapItem(name="비용 절감", value="65,700$"),
         RecapItem(name="영어 발표", value="2번"),
     ]
 
