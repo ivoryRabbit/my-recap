@@ -1,6 +1,6 @@
 import streamlit as st
 
-from models.recap_item import RecapItem
+from model.recap_item import RecapItem
 
 
 st.set_page_config(
