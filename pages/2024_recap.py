@@ -69,10 +69,11 @@ with st.container():
                 is_click = st.button(label=item_value, key=item_name, use_container_width=True)
 
 with st.container():
-    st.subheader("활동", divider=True)
+    st.subheader("자기 개발", divider=True)
 
     recap_items = [
         RecapItem(name="글쓰기", value="16편"),
+        RecapItem(name="영어 수업", value="72시간"),
         RecapItem(name="스터디", value="0회"),
     ]
 
